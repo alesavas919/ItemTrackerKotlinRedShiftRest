@@ -1,0 +1,6 @@
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\com\aws\rest\SendMessage.kt
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\com\aws\rest\InjectWorkService.kt
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\Main.kt
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\com\aws\rest\RetrieveItems.kt
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\com\aws\rest\App.kt
+D:\mobile\kotlin\ItemTrackerKotlinRedShiftRest\src\main\kotlin\com\aws\rest\WorkItem.kt
